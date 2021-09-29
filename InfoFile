@@ -12,3 +12,5 @@ Git Commands:
 8. git commit -m "Automation Code Commit"
 9. git status
 10.git push -u origin master
+
+This is a Hybrid Framework that follows Page Object Model Design Pattern
