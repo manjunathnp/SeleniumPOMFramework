@@ -1,0 +1,14 @@
+Test Automation using POM approach
+
+Git Commands:
+
+1. git init
+2. git remote add origin "https://github.com/manjunathnp/POMAutomation.git"
+3. git status
+4. git add -A
+5. git status
+6. git config --global user.name "username"
+7. git config --global user.email "emailID"
+8. git commit -m "Automation Code Commit"
+9. git status
+10.git push -u origin master
