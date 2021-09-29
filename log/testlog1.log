@@ -1,0 +1,228 @@
+2021-09-28 12:33:29,007 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 12:33:31,273 [main] INFO ebanking - Navigated to URL
+2021-09-28 12:33:31,472 [main] INFO ebanking - Entered Username
+2021-09-28 12:33:31,539 [main] INFO ebanking - Entered Password
+2021-09-28 12:33:32,664 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 12:33:32,673 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 12:34:54,053 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 12:34:57,690 [main] INFO ebanking - Navigated to URL
+2021-09-28 12:34:57,790 [main] INFO ebanking - Entered Username
+2021-09-28 12:34:57,860 [main] INFO ebanking - Entered Password
+2021-09-28 12:34:58,829 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 12:34:58,839 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 12:52:43,966 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 12:52:47,300 [main] INFO ebanking - Navigated to URL
+2021-09-28 12:52:47,401 [main] INFO ebanking - Entered Username
+2021-09-28 12:52:47,473 [main] INFO ebanking - Entered Password
+2021-09-28 12:52:48,465 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 12:52:48,474 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 13:16:00,765 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 13:16:03,094 [main] INFO ebanking - Navigated to URL
+2021-09-28 13:16:03,515 [main] INFO ebanking - Entered Username
+2021-09-28 13:16:03,581 [main] INFO ebanking - Entered Password
+2021-09-28 13:16:04,860 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 13:16:04,867 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 13:22:02,659 [main] INFO ebanking - Firefox Browser Launched
+2021-09-28 13:22:05,989 [main] INFO ebanking - Navigated to URL
+2021-09-28 13:22:07,238 [main] INFO ebanking - Entered Username
+2021-09-28 13:22:07,319 [main] INFO ebanking - Entered Password
+2021-09-28 13:22:09,642 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 13:22:09,714 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 13:27:16,848 [main] INFO ebanking - IE Browser Launched
+2021-09-28 13:28:32,154 [main] INFO ebanking - IE Browser Launched
+2021-09-28 13:31:17,556 [main] INFO ebanking - IE Browser Launched
+2021-09-28 13:36:35,934 [main] INFO ebanking - Firefox Browser Launched
+2021-09-28 13:36:41,332 [main] INFO ebanking - Navigated to URL
+2021-09-28 13:36:42,616 [main] INFO ebanking - Entered Username
+2021-09-28 13:36:42,657 [main] INFO ebanking - Entered Password
+2021-09-28 13:36:45,548 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 13:36:45,563 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 13:57:16,376 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 13:57:19,215 [main] INFO ebanking - Navigated to URL
+2021-09-28 13:57:19,556 [main] INFO ebanking - Entered Username
+2021-09-28 13:57:19,668 [main] INFO ebanking - Entered Password
+2021-09-28 13:57:20,934 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 13:57:20,942 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 14:06:16,375 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:06:19,805 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:06:20,089 [main] INFO ebanking - Entered Username
+2021-09-28 14:06:20,208 [main] INFO ebanking - Entered Password
+2021-09-28 14:06:21,283 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 14:11:09,188 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:11:13,339 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:11:13,593 [main] INFO ebanking - Entered Username
+2021-09-28 14:11:13,706 [main] INFO ebanking - Entered Password
+2021-09-28 14:11:14,784 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 14:15:16,569 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:15:20,098 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:15:20,377 [main] INFO ebanking - Entered Username
+2021-09-28 14:15:20,486 [main] INFO ebanking - Entered Password
+2021-09-28 14:15:21,612 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 14:18:32,711 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:18:35,791 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:18:36,075 [main] INFO ebanking - Entered Username
+2021-09-28 14:18:36,193 [main] INFO ebanking - Entered Password
+2021-09-28 14:18:37,294 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 14:45:55,448 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:45:58,030 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:47:26,401 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:47:29,662 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:48:49,301 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:48:52,670 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:51:24,002 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 14:51:26,987 [main] INFO ebanking - Navigated to URL
+2021-09-28 14:51:30,035 [main] INFO ebanking - user name provided
+2021-09-28 14:51:30,141 [main] INFO ebanking - password provided
+2021-09-28 14:51:35,089 [main] INFO ebanking - Login passed
+2021-09-28 14:51:40,896 [main] INFO ebanking - user name provided
+2021-09-28 14:51:41,109 [main] INFO ebanking - password provided
+2021-09-28 14:51:46,596 [main] INFO ebanking - user name provided
+2021-09-28 14:51:46,852 [main] INFO ebanking - password provided
+2021-09-28 14:51:51,198 [main] INFO ebanking - Login passed
+2021-09-28 14:51:56,770 [main] INFO ebanking - user name provided
+2021-09-28 14:51:56,889 [main] INFO ebanking - password provided
+2021-09-28 15:20:12,474 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 15:20:14,995 [main] INFO ebanking - Navigated to URL
+2021-09-28 15:20:15,308 [main] INFO ebanking - Entered Username
+2021-09-28 15:20:15,434 [main] INFO ebanking - Entered Password
+2021-09-28 15:20:16,622 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 15:20:40,769 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 15:20:44,932 [main] INFO ebanking - Navigated to URL
+2021-09-28 15:20:45,208 [main] INFO ebanking - Entered Username
+2021-09-28 15:20:45,318 [main] INFO ebanking - Entered Password
+2021-09-28 15:20:46,573 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 15:20:46,610 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-28 16:48:23,799 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 16:48:27,672 [main] INFO ebanking - Navigated to URL
+2021-09-28 16:48:29,439 [main] INFO ebanking - Entered Username
+2021-09-28 16:48:29,507 [main] INFO ebanking - Entered Password
+2021-09-28 16:48:31,366 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 16:48:37,107 [main] INFO ebanking - providing customer details....
+2021-09-28 16:48:46,972 [main] INFO ebanking - validation started....
+2021-09-28 16:48:46,985 [main] INFO ebanking - test case passed....
+2021-09-28 16:49:54,333 [main] INFO ebanking - Firefox Browser Launched
+2021-09-28 16:49:59,899 [main] INFO ebanking - Navigated to URL
+2021-09-28 16:50:01,860 [main] INFO ebanking - Entered Username
+2021-09-28 16:50:01,888 [main] INFO ebanking - Entered Password
+2021-09-28 16:50:06,434 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 16:50:10,081 [main] INFO ebanking - providing customer details....
+2021-09-28 16:50:19,898 [main] INFO ebanking - validation started....
+2021-09-28 16:50:56,612 [main] INFO ebanking - Firefox Browser Launched
+2021-09-28 16:51:00,680 [main] INFO ebanking - Navigated to URL
+2021-09-28 16:51:00,765 [main] INFO ebanking - Entered Username
+2021-09-28 16:51:00,792 [main] INFO ebanking - Entered Password
+2021-09-28 16:51:02,056 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 16:51:05,805 [main] INFO ebanking - providing customer details....
+2021-09-28 16:51:14,509 [main] INFO ebanking - validation started....
+2021-09-28 16:51:54,435 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 16:51:57,825 [main] INFO ebanking - Navigated to URL
+2021-09-28 16:51:57,931 [main] INFO ebanking - Entered Username
+2021-09-28 16:51:58,010 [main] INFO ebanking - Entered Password
+2021-09-28 16:51:59,047 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 16:52:03,428 [main] INFO ebanking - providing customer details....
+2021-09-28 16:52:13,182 [main] INFO ebanking - validation started....
+2021-09-28 16:52:13,194 [main] INFO ebanking - test case passed....
+2021-09-28 16:52:46,427 [main] INFO ebanking - Chrome Browser Launched
+2021-09-28 16:52:49,403 [main] INFO ebanking - Navigated to URL
+2021-09-28 16:52:49,511 [main] INFO ebanking - Entered Username
+2021-09-28 16:52:49,583 [main] INFO ebanking - Entered Password
+2021-09-28 16:52:50,590 [main] INFO ebanking - Clicked on Login Button
+2021-09-28 16:52:54,592 [main] INFO ebanking - providing customer details....
+2021-09-28 16:53:08,321 [main] INFO ebanking - validation started....
+2021-09-28 16:53:08,333 [main] INFO ebanking - test case passed....
+2021-09-29 11:17:47,990 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:18:18,843 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:18:19,787 [main] INFO ebanking - Entered Username
+2021-09-29 11:18:19,898 [main] INFO ebanking - Entered Password
+2021-09-29 11:18:24,763 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:18:24,796 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 11:22:17,046 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:22:20,809 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:22:21,090 [main] INFO ebanking - Entered Username
+2021-09-29 11:22:21,234 [main] INFO ebanking - Entered Password
+2021-09-29 11:22:22,321 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:22:22,344 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 11:22:25,165 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:22:28,060 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:22:28,250 [main] INFO ebanking - Entered Username
+2021-09-29 11:22:28,407 [main] INFO ebanking - Entered Password
+2021-09-29 11:22:29,495 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:22:33,973 [main] INFO ebanking - providing customer details....
+2021-09-29 11:22:48,553 [main] INFO ebanking - validation started....
+2021-09-29 11:22:48,572 [main] INFO ebanking - test case passed....
+2021-09-29 11:33:17,988 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:33:21,419 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:33:21,679 [main] INFO ebanking - Entered Username
+2021-09-29 11:33:21,782 [main] INFO ebanking - Entered Password
+2021-09-29 11:33:22,855 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:33:22,876 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 11:35:24,528 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:35:29,078 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:35:29,333 [main] INFO ebanking - Entered Username
+2021-09-29 11:35:29,470 [main] INFO ebanking - Entered Password
+2021-09-29 11:35:30,803 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:35:30,825 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 11:35:33,733 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:35:36,832 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:35:37,024 [main] INFO ebanking - Entered Username
+2021-09-29 11:35:37,159 [main] INFO ebanking - Entered Password
+2021-09-29 11:35:38,197 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:35:42,805 [main] INFO ebanking - providing customer details....
+2021-09-29 11:35:58,047 [main] INFO ebanking - validation started....
+2021-09-29 11:35:58,084 [main] INFO ebanking - test case passed....
+2021-09-29 11:38:52,446 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:38:55,935 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:38:56,155 [main] INFO ebanking - Entered Username
+2021-09-29 11:38:56,276 [main] INFO ebanking - Entered Password
+2021-09-29 11:38:57,306 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:38:57,318 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 11:38:59,720 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:39:03,125 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:39:03,320 [main] INFO ebanking - Entered Username
+2021-09-29 11:39:03,440 [main] INFO ebanking - Entered Password
+2021-09-29 11:39:04,923 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:39:09,690 [main] INFO ebanking - providing customer details....
+2021-09-29 11:39:24,879 [main] INFO ebanking - validation started....
+2021-09-29 11:39:24,914 [main] INFO ebanking - test case passed....
+2021-09-29 11:45:02,997 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:45:06,938 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:45:07,321 [main] INFO ebanking - Entered Username
+2021-09-29 11:45:07,469 [main] INFO ebanking - Entered Password
+2021-09-29 11:45:08,882 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:45:08,919 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 11:45:11,658 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 11:45:14,812 [main] INFO ebanking - Navigated to URL
+2021-09-29 11:45:15,070 [main] INFO ebanking - Entered Username
+2021-09-29 11:45:15,221 [main] INFO ebanking - Entered Password
+2021-09-29 11:45:16,275 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 11:45:20,636 [main] INFO ebanking - providing customer details....
+2021-09-29 11:45:35,166 [main] INFO ebanking - validation started....
+2021-09-29 11:45:35,186 [main] INFO ebanking - test case passed....
+2021-09-29 12:46:57,477 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 12:46:59,787 [main] INFO ebanking - Navigated to URL
+2021-09-29 12:47:01,015 [main] INFO ebanking - Entered Username
+2021-09-29 12:47:01,115 [main] INFO ebanking - Entered Password
+2021-09-29 12:47:02,999 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 12:47:03,074 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 12:47:05,858 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 12:47:14,388 [main] INFO ebanking - Navigated to URL
+2021-09-29 12:47:14,481 [main] INFO ebanking - Entered Username
+2021-09-29 12:47:14,567 [main] INFO ebanking - Entered Password
+2021-09-29 12:47:16,215 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 12:47:19,982 [main] INFO ebanking - providing customer details....
+2021-09-29 12:47:33,748 [main] INFO ebanking - validation started....
+2021-09-29 12:47:33,759 [main] INFO ebanking - test case passed....
+2021-09-29 14:27:49,442 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 14:27:53,199 [main] INFO ebanking - Navigated to URL
+2021-09-29 14:27:53,701 [main] INFO ebanking - Entered Username
+2021-09-29 14:27:53,866 [main] INFO ebanking - Entered Password
+2021-09-29 14:27:55,957 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 14:27:55,980 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2021-09-29 14:27:59,134 [main] INFO ebanking - Chrome Browser Launched
+2021-09-29 14:28:03,631 [main] INFO ebanking - Navigated to URL
+2021-09-29 14:28:03,801 [main] INFO ebanking - Entered Username
+2021-09-29 14:28:03,937 [main] INFO ebanking - Entered Password
+2021-09-29 14:28:05,301 [main] INFO ebanking - Clicked on Login Button
+2021-09-29 14:28:09,045 [main] INFO ebanking - providing customer details....
+2021-09-29 14:28:23,400 [main] INFO ebanking - validation started....
+2021-09-29 14:28:23,420 [main] INFO ebanking - test case passed....
